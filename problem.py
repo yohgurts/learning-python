@@ -21,7 +21,6 @@ def rwhile():
     hash = {}
     while i != 5:
         i = randint(1,101)
-        
         print(i)
 
 rwhile()
